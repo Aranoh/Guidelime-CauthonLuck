@@ -1,0 +1,46 @@
+
+## Title: Guidelime_CauthonLuck Shaman 1-60 A
+## Author: CauthonLuck
+## Version: 0.001-Beta
+## Interface: 20501
+## Dependencies: Guidelime
+## Notes: Guide by CauthonLuck setup by Arano
+
+Description.lua
+Shaman simple rotation.lua
+Skippable Class Skills.lua
+1-6 Ammen Vale.lua
+6-12 Azuremyst Isle.lua
+12-16 Bloodmyst Isle.lua
+16-20 Darkshore&Ashenvale.lua
+20-23 Bloodmyst Isle.lua
+23-25 Ashenvale&Stonetalon.lua
+25-27 Wetlands.lua
+27-27 Iron Forge&Stormwind.lua
+27-30 Duskwood.lua
+30-32 Wetlands&Ashenvale.lua
+32-34 Southshore&Arathi.lua
+34-36 Stranglethorn Vale.lua
+36-38 Dustwallow Marsh.lua
+38-40 Arathi Highlands&Alterac Mountains.lua
+40-41 Swamp of Sorrows.lua
+41-41 Stranglethorn Vale.lua
+41-42 Arathi Highland&Alterac Mountains.lua
+42-43 Dustwallow.lua
+43-45 Stranglethorn Vale.lua
+45-45 Swamp of Sorrows.lua
+45-46 Dustwallow&Tanaris.lua
+46-47 Feralas.lua
+47-48 Tanaris.lua
+48-48 Travel Section.lua
+48-49 Hinterlands.lua
+49-51 Searing Gorge.lua
+51-51 Alterac Valley.lua
+51-52 Blasted Lands.lua
+52-52 Azshara.lua
+52-53 Felwood.lua
+53-54 Burning Steppes.lua
+54-56 Un'goro Crater.lua
+56-58 Felwod&Winterspring.lua
+58-60 Western & Eastern Plaguelands.lua
+58-64 Mail outlands gearing guide (SSF).lua
